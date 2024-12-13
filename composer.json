@@ -1,0 +1,9 @@
+{
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    }
+}
